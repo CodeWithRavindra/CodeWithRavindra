@@ -39,7 +39,6 @@ Full-stack developer building practical, production-quality web applications —
 | [Order Management System](#) | Microservices e-commerce backend | Spring Boot · Kafka · Docker |
 | [Review Radar](#) | Team product — auth system owner | Next.js · Prisma · JWT |
 
-*(replace `#` with your actual repo links)*
 
 ## 📈 GitHub Stats
 
